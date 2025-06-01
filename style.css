@@ -1,0 +1,79 @@
+#survey {
+  background-color: lightpink;
+  font: 100px;
+  color: darkblue;
+  font-family: 'Times New Roman';
+  text-align: center;
+}
+#para {
+  font-family: Georgia;
+  font-size: large;
+  margin-left: 50px;
+  display: flex;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  line-height: 1.6;
+  overflow: hidden;
+}
+#contact {
+  display: flex;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button1 {
+  background-color: plum;
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 16px;
+  margin-left: 25%;
+}
+.quote-box {
+  border-left: 4px solid #00bcd4;
+  padding: 10px 20px;
+  margin: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #f0fafa;
+  font-style: italic;
+}
+
+.author {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.container {
+  margin-left: 20%;
+  width: 20%;
+}
+#form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+label {
+  align-self: flex-start;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+button {
+  background-color: darksalmon;
+  font-size: 16px;
+  border-radius: 8px;
+  padding: 16px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#form {
+  font: 100px;
+  font-family: 'Gill Sans';
+  text-align: center;
+}
